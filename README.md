@@ -13,3 +13,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tesfa12)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tesfamichael-ayalew-ba79bb245)
+### My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tesfa12&show_icons=true&theme=dark)
