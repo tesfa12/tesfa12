@@ -1,7 +1,8 @@
-## Hello there 👋
+    ## About Me
 
-A collection of projects from a Vibe coding student 👨‍💻. 
-This repository showcases my work in app and web development, where I focus on creating user-centric digital solutions. 
+ As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
+I love the entire process of building, from a simple idea to a fully-realized digital solution.
+I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
 Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
 ## My Toolkit 🛠️
 
