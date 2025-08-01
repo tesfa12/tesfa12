@@ -1,4 +1,4 @@
-    ## About Me
+## About Me
 
  As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
 I love the entire process of building, from a simple idea to a fully-realized digital solution.
