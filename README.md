@@ -18,3 +18,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tesfa12&show_icons=true&theme=dark)
 
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
+
+### My Favorite Languages
+
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
