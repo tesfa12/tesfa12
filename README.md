@@ -8,3 +8,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 - I build with: JavaScript, Python, React, and Node.js
 - I use AI for: Code completion and idea generation
 - My projects are hosted on: GitHub
+### Let's Connect! 🌐
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
