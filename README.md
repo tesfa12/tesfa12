@@ -27,8 +27,3 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 ### My Projects 🚀
 
-- **Project Name:** [Name of your project, e.g., "My First Website"]
-  - **Description:** [A short, one-sentence summary of what the project is and what it does.]
-  - **Technologies:** [List the technologies used, e.g., HTML, CSS, JavaScript.]
-  - **Live Demo:** [Link to a live version of the project, if available.]
-  - **GitHub Repo:** [Link to the repository for this project.]
