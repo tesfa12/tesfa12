@@ -4,9 +4,9 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">I'm [Your Name]</h1>
+<h1 align="center">I'm [Tesfamichael Ayalew]</h1>
 <p align="center">
-  A passionate developer from [Your Location].
+  A passionate developer from [Ethiopia].
 </p>
 
 <!-- Typing SVG -->
