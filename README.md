@@ -11,7 +11,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;I'm+a+VIBE-CODER+and+CODING-STUDENT;always+leveraging+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;I'm+a+VIBE-CODER+and+CODING-Student;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
 <!-- About Me -->
@@ -45,7 +45,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tesfa12]&theme=dark" alt="github streak" />
 </p>
-![My GitHub Trophies]=(https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
 
 <!-- Socials -->
 ## 🌐 Connect with Me
