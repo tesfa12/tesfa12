@@ -4,14 +4,14 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">I'm [Tesfamichael Ayalew]</h1>
+<h1 align="center">I'm Tesfamichael Ayalew</h1>
 <p align="center">
-  A passionate developer from [Ethiopia].
+  A passionate developer from Ethiopia.
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;I'm+a+VIBECODER+and+CODING+STUDENT" alt="Typing SVG" /></a>
 </p>
 
 <!-- About Me -->
