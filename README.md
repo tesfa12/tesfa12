@@ -30,6 +30,13 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 <!-- Skills -->
 ## 🛠️ Skills
+<!-- Skills -->
+## 🛠️ Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,postgres,docker" />
+  </a>
+</p>
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,14 +45,25 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<!-- Contribution Snake -->
+## 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="contribution snake">
+</p>
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tesfa12]&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tesfa12&show_icons=true&theme=radical" alt="github stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tesfa12]&theme=dark" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesfa12&theme=dark" alt="github streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
 </p>
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical&column=7" alt="github trophies" />
+</p>
 
 <!-- Socials -->
 ## 🌐 Connect with Me
@@ -58,3 +76,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
 ---
 ### My Projects 🚀
+
+
+
