@@ -77,7 +77,12 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
 ---
 
-### My Projects 🚀
+## 🚧 Projects in the Pipeline 🚧
 
+I'm hard at work building some cool things. This section will be updated soon!
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4ZzJ5Z3U4c3ZpZzB6Z2w5a295c3J2a3JtY3R2c2JpYjZqZ3A0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cb3m2w5c67GZt6/giphy.gif" width="250">
+</p>
 
 
