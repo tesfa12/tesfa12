@@ -1,32 +1,3 @@
-## About Me
-
- As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
-I love the entire process of building, from a simple idea to a fully-realized digital solution.
-I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
-Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
-## My Toolkit 🛠️
-
-- I build with: JavaScript, Python, React, and Node.js
-- I use AI for: Code completion and idea generation
-- My projects are hosted on: GitHub
-
-### Let's Connect! 🌐
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tesfa12)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tesfamichael-ayalew-ba79bb245)
-### My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tesfa12&show_icons=true&theme=dark)
-
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
-
-### My Favorite Languages
-
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
----
-
-### My Projects 🚀
-
 <!-- Header Image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20👋&fontSize=90" />
@@ -45,14 +16,17 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 <!-- About Me -->
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
+I love the entire process of building, from a simple idea to a fully-realized digital solution.
+I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
+Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
+
+## My Toolkit 🛠️
+
+- I build with: JavaScript, Python, React, and Node.js
+- I use AI for: Code completion and idea generation
+- My projects are hosted on: GitHub
 
 <!-- Skills -->
 ## 🛠️ Skills
@@ -67,14 +41,20 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[tesfa12]&show_icons=true&theme=radical" alt="github stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=dark" alt="github streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tesfa12]&theme=dark" alt="github streak" />
 </p>
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
 
 <!-- Socials -->
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[tesfamichael-ayalew-ba79bb245]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/[tesfaay7]"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+### My Favorite Languages
+
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
+---
+### My Projects 🚀
