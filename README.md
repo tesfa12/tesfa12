@@ -45,7 +45,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[tesfa12]&theme=dark" alt="github streak" />
 </p>
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
+![My GitHub Trophies]=(https://github-profile-trophy.vercel.app/?username=tesfa12&theme=radical)
 
 <!-- Socials -->
 ## 🌐 Connect with Me
