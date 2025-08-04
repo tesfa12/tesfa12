@@ -15,31 +15,49 @@
 </p>
 
 
-🙋‍♂️ About Me
+<!-- About Me -->
 
-<div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D18%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DAs%2Ba%2Bfull-stack%2Bdeveloper%2Bin%2Btraining...%3Bmy%2Bpassion%2Bis%2Bwhere%2Bcreativity%2Bmeets%2Bcode.%3BI%2Blove%2Bthe%2Bentire%2Bprocess%2Bof%2Bbuilding...%3Bfrom%2Ba%2Bsimple%2Bidea%2Bto%2Ba%2Bdigital%2Bsolution.%3BI%27m%2Balways%2Bexploring%2Bnew%2Btechnologies%2Band%2BAI.%3BEach%2Bproject%2Bis%2Ba%2Bstep%2Bin%2Bmy%2Bjourney...%3BI%27m%2Bexcited%2Bto%2Bshare%2Bit%2Bwith%2Byou!" alt="Typing SVG animation for About Me section" />
-</a>
-</div>
-
-<br>
-
-🔭 I’m currently working on building a personal portfolio website to showcase my projects and technical skills.
-
-🌱 I’m currently learning to use AI tools for fast-paced, creative coding and focusing on mastering core software development principles.
-
-👯 I’m looking to collaborate on beginner-friendly, open-source projects to contribute to the community and learn from others.
-
-🤔 I’m looking for help with improving my code's efficiency and learning advanced debugging techniques.
-
-💬 Ask me about the basics of web development or getting started with coding from scratch.
-
-📫 How to reach me: Connect with me on LinkedIn.
-
-⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
+## 🙋‍♂️ About Me
 
 
+
+ As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
+
+I love the entire process of building, from a simple idea to a fully-realized digital solution.
+
+I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
+
+Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
+
+
+
+
+
+- 🔭 I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
+
+
+
+- 🌱 I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
+
+
+
+- 👯 I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
+
+
+
+- 🤔 I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
+
+
+
+- 💬 Ask me about the basics of **web development** or getting started with coding from scratch.
+
+
+
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
+
+
+
+- ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
 ## My Toolkit 🛠️
 
 - I build with: JavaScript, Python, React, and Node.js
