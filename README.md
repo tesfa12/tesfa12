@@ -32,24 +32,26 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 </td>
 <td valign="top" width="100%">
-
 - 🔭 &nbsp; I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
 - 🌱 &nbsp; I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
 - 👯 &nbsp; I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
 - 🤔 &nbsp; I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
 - 💬 &nbsp; Ask me about the basics of **web development** or getting started with coding from scratch.
 - 📫 &nbsp; How to reach me: Connect with me on Option few steps down.
-
+- ⚡️ &nbsp; Fun fact: I love to take long journeys to spiritual and historical places.
 </td>
 </tr>
 </table>
 
-- ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
 ## My Toolkit 🛠️
 
 - I build with: JavaScript, Python, React, and Node.js
 - I use AI for: Code completion and idea generation
 - My projects are hosted on: GitHub
+
+### 🛠 Languages and Tools
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
 <!-- Skills -->
 ## 🛠️ Skills
