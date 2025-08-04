@@ -60,12 +60,14 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 </p>
 
 ### 🛠 Languages and Tools
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 
 
 ### Frameworks & Libraries
+<p align="center">
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -100,7 +102,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
   <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
 </p>
 
-
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
 </p>
 
