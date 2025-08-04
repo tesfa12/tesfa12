@@ -79,9 +79,8 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/tesfa12=classic&config_animations=true" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
 </p>
-
 
 ## 🚧 Projects in the Pipeline 🚧
 
