@@ -60,8 +60,9 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 </p>
 
 ### 🛠 Languages and Tools
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 
 
 ### Frameworks & Libraries
