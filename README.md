@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  🔭 &nbsp; Building my **personal portfolio** &nbsp; | &nbsp; 🌱 &nbsp; Learning **AI tools for creative coding** &nbsp; | &nbsp; 👯 &nbsp; Collaborating on **open-source**
+  🔭 &nbsp; Building my personal portfolio &nbsp; | &nbsp; 🌱 &nbsp; Learning AI tools for creative coding &nbsp; | &nbsp; 👯 &nbsp; Collaborating on open-source
 </p>
 
 
