@@ -31,13 +31,15 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 
 </td>
-<td valign="top" width="15%">
+<td valign="top" width="100%">
+
 - 🔭 &nbsp; I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
 - 🌱 &nbsp; I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
 - 👯 &nbsp; I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
 - 🤔 &nbsp; I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
 - 💬 &nbsp; Ask me about the basics of **web development** or getting started with coding from scratch.
 - 📫 &nbsp; How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
+
 </td>
 </tr>
 </table>
