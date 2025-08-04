@@ -68,7 +68,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 
 ### Frameworks & Libraries
-<p align="center">
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
