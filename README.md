@@ -16,8 +16,11 @@
 
 
 🙋‍♂️ About Me
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D18%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DAs%2Ba%2Bfull-stack%2Bdeveloper%2Bin%2Btraining%252C%2Bmy%2Bpassion%2Bis%2Bwhere%2Bcreativity%2Bmeets%2Bcode.%3BI%2Blove%2Bthe%2Bentire%2Bprocess%2Bof%2Bbuilding%252C%2Bfrom%2Bidea%2Bto%2Ba%2Bdigital%2Bsolution.%3BI%27m%2Balways%2Bexploring%2Bnew%2Btechnologies%2Band%2Buse%2BAI%2Bto%2Bpush%2Bboundaries.%3BEach%2Bproject%2Bis%2Ba%2Bstep%2Bin%2Bmy%2Bjourney%252C%2Band%2BI%27m%2Bexcited%2Bto%2Bshare%2Bit%2Bhere!" alt="About Me Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D18%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DAs%2Ba%2Bfull-stack%2Bdeveloper%2Bin%2Btraining...%3Bmy%2Bpassion%2Bis%2Bwhere%2Bcreativity%2Bmeets%2Bcode.%3BI%2Blove%2Bthe%2Bentire%2Bprocess%2Bof%2Bbuilding...%3Bfrom%2Ba%2Bsimple%2Bidea%2Bto%2Ba%2Bdigital%2Bsolution.%3BI%27m%2Balways%2Bexploring%2Bnew%2Btechnologies%2Band%2BAI.%3BEach%2Bproject%2Bis%2Ba%2Bstep%2Bin%2Bmy%2Bjourney...%3BI%27m%2Bexcited%2Bto%2Bshare%2Bit%2Bwith%2Byou!" alt="Typing SVG animation for About Me section" />
+</a>
 </div>
 
 <br>
@@ -36,7 +39,7 @@
 
 ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
 
-<hr>
+
 ## My Toolkit 🛠️
 
 - I build with: JavaScript, Python, React, and Node.js
