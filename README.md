@@ -86,5 +86,5 @@ I'm hard at work building some cool things. This section will be updated soon!
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/[tesfa12]?template=classic&config_animations=true" alt="GitHub Metrics" />
 </p>
