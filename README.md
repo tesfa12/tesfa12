@@ -100,6 +100,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
   <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
 </p>
 
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
 </p>
 
