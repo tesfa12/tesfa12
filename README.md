@@ -14,32 +14,25 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;VIBECODER+and+ofc+Learning.....;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlrZGdza3poNnY4eGM4d2p6d2d2dHBxZHY4dDA5b2NqZnh2bDRpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="100px" />
-</div>
-
 <h2 align="center"> 🙋‍♂️ About Me </h2>
 
-<table align="center">
-<tr>
-<td valign="top" width="60%">
+<p align="center">
+  As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. I love the entire process of building, from a simple idea to a fully-realized digital solution. I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. Each project is a step in my journey to becoming a skilled developer, and I'm excited to share my journey here!
+</p>
 
-> As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. I love the entire process of building, from a simple idea to a fully-realized digital solution. I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. Each project is a step in my journey to becoming a skilled developer, and I'm excited to share my journey here!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High-Speed%20Train.png" alt="High-Speed Train" width="35" height="35" />
+  &nbsp; 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="35" height="35" />
+</p>
 
-</td>
-<td valign="top" width="40%">
+<p align="center">
+  🔭 &nbsp; Building my **personal portfolio** &nbsp; | &nbsp; 🌱 &nbsp; Learning **AI tools for creative coding** &nbsp; | &nbsp; 👯 &nbsp; Collaborating on **open-source**
+</p>
 
-- 🔭 &nbsp; Building my **personal portfolio**.
-- 🌱 &nbsp; Learning **AI for creative coding**.
-- 👯 &nbsp; Collaborating on **open-source**.
-- 🤔 &nbsp; Improving my **code's efficiency**.
-- 💬 &nbsp; Ask me about **web dev basics**.
-- 📫 &nbsp; Connect on **[LinkedIn](https://www.linkedin.com/in/tesfa12)**.
-- ⚡️ &nbsp; Fun fact: I love **spiritual & historical journeys**.
 
-</td>
-</tr>
-</table>
 
 ## My Toolkit 🛠️
 
