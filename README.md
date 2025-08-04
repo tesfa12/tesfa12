@@ -38,7 +38,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 - 👯 &nbsp; I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
 - 🤔 &nbsp; I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
 - 💬 &nbsp; Ask me about the basics of **web development** or getting started with coding from scratch.
-- 📫 &nbsp; How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
+- 📫 &nbsp; How to reach me: Connect with me on Option few steps down.
 
 </td>
 </tr>
