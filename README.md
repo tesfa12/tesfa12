@@ -51,10 +51,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 - I use AI for: Code completion and idea generation
 - My projects are hosted on: GitHub
 
-### 🛠 Languages and Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
 <!-- Skills -->
 ## 🛠️ Skills
 <p align="center">
@@ -62,6 +58,10 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
     <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,mongodb,postgres,docker" />
   </a>
 </p>
+
+### 🛠 Languages and Tools
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 ### Frameworks & Libraries
