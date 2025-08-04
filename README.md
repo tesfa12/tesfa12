@@ -14,29 +14,32 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;VIBECODER+and+ofc+Learning.....;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
-<!-- About Me -->
-## 🙋‍♂️ About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlrZGdza3poNnY4eGM4d2p6d2d2dHBxZHY4dDA5b2NqZnh2bDRpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2b/giphy.gif" width="100px" />
+</div>
 
- As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. 
-I love the entire process of building, from a simple idea to a fully-realized digital solution.
-I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
-Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
+<h2 align="center"> 🙋‍♂️ About Me </h2>
 
+<table align="center">
+<tr>
+<td valign="top" width="60%">
 
-- 🔭 I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
+> As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. I love the entire process of building, from a simple idea to a fully-realized digital solution. I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. Each project is a step in my journey to becoming a skilled developer, and I'm excited to share my journey here!
 
-- 🌱 I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
+</td>
+<td valign="top" width="40%">
 
-- 👯 I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
+- 🔭 &nbsp; Building my **personal portfolio**.
+- 🌱 &nbsp; Learning **AI for creative coding**.
+- 👯 &nbsp; Collaborating on **open-source**.
+- 🤔 &nbsp; Improving my **code's efficiency**.
+- 💬 &nbsp; Ask me about **web dev basics**.
+- 📫 &nbsp; Connect on **[LinkedIn](https://www.linkedin.com/in/tesfa12)**.
+- ⚡️ &nbsp; Fun fact: I love **spiritual & historical journeys**.
 
-- 🤔 I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
-
-- 💬 Ask me about the basics of **web development** or getting started with coding from scratch.
-
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
-
-- ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
-
+</td>
+</tr>
+</table>
 
 ## My Toolkit 🛠️
 
