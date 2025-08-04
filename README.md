@@ -14,13 +14,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;VIBECODER+and+ofc+Learning.....;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
+
+🙋‍♂️ About Me
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D35%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26lines%3DHi%2Bthere%2B%25F0%259F%2591%258B%252C%2BI%27m%2BTesfa%3BI%27m%2Ba%2Bpassionate%2BWeb%2BDeveloper%3BI%27m%2Blearning%2BAI%2Btools%2Bfor%2Bcreative%2Bcoding%3BWelcome%2Bto%2Bmy%2Bprofile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D22%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DAs%2Ba%2Bfull-stack%2Bdeveloper%2Bin%2Btraining%2Bat%2BVibe...%3BMy%2Bpassion%2Blies%2Bwhere%2Bcreativity%2Bmeets%2Bcode.%3BI%2Blove%2Bbuilding%2Bfrom%2Bidea%2Bto%2Ba%2Bdigital%2Bsolution.%3BI%27m%2Balways%2Bexploring%2Bnew%2Btechnologies%2Bwith%2BAI.%3BI%27m%2Bexcited%2Bto%2Bshare%2Bmy%2Bjourney%2Bwith%2Byou!" alt="About Me Typing SVG" /></a>
 </div>
 
 <br>
 
-🙋‍♂️ About Me
 🔭 I’m currently working on building a personal portfolio website to showcase my projects and technical skills.
 
 🌱 I’m currently learning to use AI tools for fast-paced, creative coding and focusing on mastering core software development principles.
