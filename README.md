@@ -30,7 +30,8 @@ I'm always exploring new technologies and use AI to help me push the boundaries 
 Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
 
 
-
+</td>
+<td valign="top" width="40%">
 
 
 - 🔭 I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
@@ -55,7 +56,9 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
 
-
+</td>
+</tr>
+</table>
 
 - ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
 ## My Toolkit 🛠️
