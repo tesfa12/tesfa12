@@ -32,6 +32,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 </td>
 <td valign="top" width="100%">
+
 - 🔭 &nbsp; I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
 - 🌱 &nbsp; I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
 - 👯 &nbsp; I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
@@ -39,6 +40,7 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 - 💬 &nbsp; Ask me about the basics of **web development** or getting started with coding from scratch.
 - 📫 &nbsp; How to reach me: Connect with me on Option few steps down.
 - ⚡️ &nbsp; Fun fact: I love to take long journeys to spiritual and historical places.
+
 </td>
 </tr>
 </table>
@@ -79,8 +81,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tesfa12&theme=dark" alt="github streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
-</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -97,6 +97,9 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 
 <p align="center">
   <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
+</p>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
 </p>
 
 ## 🚧 Projects in the Pipeline 🚧
