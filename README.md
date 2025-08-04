@@ -22,6 +22,22 @@ I love the entire process of building, from a simple idea to a fully-realized di
 I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. 
 Each project is a step in my journey to becoming a skilled developer, I'm excited to share my journey here!
 
+
+- 🔭 I’m currently working on building a **personal portfolio website** to showcase my projects and technical skills.
+
+- 🌱 I’m currently learning to use **AI tools for fast-paced, creative coding** and focusing on mastering core software development principles.
+
+- 👯 I’m looking to collaborate on **beginner-friendly, open-source projects** to contribute to the community and learn from others.
+
+- 🤔 I’m looking for help with **improving my code's efficiency** and learning advanced debugging techniques.
+
+- 💬 Ask me about the basics of **web development** or getting started with coding from scratch.
+
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/tesfa12).
+
+- ⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
+
+
 ## My Toolkit 🛠️
 
 - I build with: JavaScript, Python, React, and Node.js
