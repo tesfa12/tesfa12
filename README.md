@@ -14,24 +14,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;VIBECODER+and+ofc+Learning.....;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
-<h2 align="center"> 🙋‍♂️ About Me </h2>
 
-<p align="center">
-  As a full-stack developer in training at Vibe, my passion lies in the space where creativity meets code. I love the entire process of building, from a simple idea to a fully-realized digital solution. I'm always exploring new technologies and use AI to help me push the boundaries of what I can create. Each project is a step in my journey to becoming a skilled developer, and I'm excited to share my journey here!
-</p>
+<a href="https://www.linkedin.com/in/tesfa12" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High-Speed%20Train.png" alt="High-Speed Train" width="35" height="35" />
-  &nbsp; 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="35" height="35" />
-</p>
+I'm a passionate developer on a journey of continuous learning and creation. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
-<p align="center">
-  🔭 &nbsp; Building my **personal portfolio** &nbsp; | &nbsp; 🌱 &nbsp; Learning **AI tools for creative coding** &nbsp; | &nbsp; 👯 &nbsp; Collaborating on **open-source**
-</p>
+🙋‍♂️ About Me
 
+🔭 I’m currently building a personal portfolio website to showcase my projects and technical skills. It's my digital canvas!
+
+🌱 I’m learning to use AI tools for fast-paced, creative coding while also mastering core software development principles. I believe in building future-proof skills on a rock-solid foundation.
+
+👯 I’m looking to collaborate on beginner-friendly, open-source projects. I'm eager to contribute to the community and grow with others.
+
+🤔 I’m seeking help with improving my code's efficiency and learning advanced debugging techniques. I'm always open to feedback and mentorship!
+
+💬 Ask me about the basics of web development or how to get started with coding from scratch. I'm happy to share what I've learned.
+
+📫 How to reach me: The best way is to connect with me on LinkedIn.
+
+⚡️ Fun fact: I love to take long journeys to spiritual and historical places. These adventures fuel my creativity and give me a fresh perspective on my work.
 
 
 ## My Toolkit 🛠️
