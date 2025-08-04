@@ -14,29 +14,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=I'm+a+Software+Developer;I'm+a+Lifelong+Learner;I'm+an+Open-Source+Enthusiast;VIBECODER+and+ofc+Learning.....;always+leveraging+AI" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D35%26pause%3D1000%26color%3D19A7CE%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26lines%3DHi%2Bthere%2B%25F0%259F%2591%258B%252C%2BI%27m%2BTesfa%3BI%27m%2Ba%2Bpassionate%2BWeb%2BDeveloper%3BI%27m%2Blearning%2BAI%2Btools%2Bfor%2Bcreative%2Bcoding%3BWelcome%2Bto%2Bmy%2Bprofile!" alt="Typing SVG" /></a>
+</div>
 
-<a href="https://www.linkedin.com/in/tesfa12" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-
-I'm a passionate developer on a journey of continuous learning and creation. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+<br>
 
 🙋‍♂️ About Me
+🔭 I’m currently working on building a personal portfolio website to showcase my projects and technical skills.
 
-🔭 I’m currently building a personal portfolio website to showcase my projects and technical skills. It's my digital canvas!
+🌱 I’m currently learning to use AI tools for fast-paced, creative coding and focusing on mastering core software development principles.
 
-🌱 I’m learning to use AI tools for fast-paced, creative coding while also mastering core software development principles. I believe in building future-proof skills on a rock-solid foundation.
+👯 I’m looking to collaborate on beginner-friendly, open-source projects to contribute to the community and learn from others.
 
-👯 I’m looking to collaborate on beginner-friendly, open-source projects. I'm eager to contribute to the community and grow with others.
+🤔 I’m looking for help with improving my code's efficiency and learning advanced debugging techniques.
 
-🤔 I’m seeking help with improving my code's efficiency and learning advanced debugging techniques. I'm always open to feedback and mentorship!
+💬 Ask me about the basics of web development or getting started with coding from scratch.
 
-💬 Ask me about the basics of web development or how to get started with coding from scratch. I'm happy to share what I've learned.
+📫 How to reach me: Connect with me on LinkedIn.
 
-📫 How to reach me: The best way is to connect with me on LinkedIn.
+⚡️ Fun fact: I love to take long journeys to spiritual and historical places.
 
-⚡️ Fun fact: I love to take long journeys to spiritual and historical places. These adventures fuel my creativity and give me a fresh perspective on my work.
-
+<hr>
 
 ## My Toolkit 🛠️
 
