@@ -92,10 +92,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 <a href="https://x.com/tesfaay7"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-### My Favorite Languages
-
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&theme=dark)
----
 
 <p align="center">
   <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
