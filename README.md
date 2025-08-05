@@ -114,33 +114,3 @@ I'm hard at work building some cool things. This section will be updated soon!
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Y4ZzJ5Z3U4c3ZpZzB6Z2w5a295c3J2a3JtY3R2c2JpYjZqZ3A0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cb3m2w5c67GZt6/giphy.gif" width="250">
 </p>
-
-# .github/workflows/main.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: main
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
