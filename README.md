@@ -71,6 +71,12 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
+</p>
+
+
 <!-- Contribution Snake -->
 ## 🐍 My Contribution Graph
 <p align="center">
@@ -97,12 +103,11 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 <a href="https://x.com/tesfaay7"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-
-
-
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesfa12&layout=compact&theme=vision-friendly-dark" alt="top langs" />
+  <img src="https://metrics.lecoq.io/tesfa12?template=classic&config_animations=true" alt="GitHub Metrics" />
 </p>
+
+
 
 ## 🚧 Projects in the Pipeline 🚧
 
