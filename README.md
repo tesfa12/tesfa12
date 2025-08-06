@@ -40,7 +40,6 @@ Each project is a step in my journey to becoming a skilled developer, I'm excite
 - 💬 &nbsp; Ask me about the basics of **web development** or getting started with coding from scratch.
 - 📫 &nbsp; How to reach me: Connect with me on Option few steps down.
 - ⚡️ &nbsp; Fun fact: I love to take long journeys to spiritual and historical places.
-
 </td>
 </tr>
 </table>
